@@ -42,7 +42,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "375 Platinum"
       },
       {
@@ -208,7 +208,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -552,7 +552,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "275 Platinum"
       },
       {
@@ -654,7 +654,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -1059,7 +1059,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       }
     ],
@@ -1148,7 +1148,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -1540,7 +1540,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -1635,7 +1635,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -2051,7 +2051,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -2156,7 +2156,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -2404,7 +2404,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "375 Platinum"
       },
       {
@@ -2506,7 +2506,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -2869,7 +2869,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -2957,7 +2957,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "370 Platinum"
       },
       {
@@ -3057,7 +3057,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "275 Platinum"
       }
     ],
@@ -3139,7 +3139,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "350 Platinum"
       },
       {
@@ -3233,7 +3233,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -3333,7 +3333,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -3675,7 +3675,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -4061,7 +4061,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "75 Platinum"
       },
       {
@@ -4166,7 +4166,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [],
@@ -4308,7 +4308,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "370 Platinum"
       },
       {
@@ -4402,7 +4402,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "375 Platinum"
       },
       {
@@ -4502,7 +4502,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -4750,7 +4750,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -4863,7 +4863,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -5267,7 +5267,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -5387,7 +5387,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -5803,7 +5803,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -5903,7 +5903,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -6367,7 +6367,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -6462,7 +6462,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -6795,7 +6795,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -6914,7 +6914,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -7089,7 +7089,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -7227,7 +7227,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -7679,7 +7679,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -7780,7 +7780,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -8208,7 +8208,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "300 Platinum"
       },
       {
@@ -8314,7 +8314,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -8671,7 +8671,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -8766,7 +8766,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -9182,7 +9182,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -9414,7 +9414,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -9800,7 +9800,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -9896,7 +9896,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -9996,7 +9996,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -10358,7 +10358,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "370 Platinum"
       },
       {
@@ -10453,7 +10453,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       }
     ],
@@ -10548,7 +10548,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -10649,7 +10649,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -10957,7 +10957,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "200 Platinum"
       },
       {
@@ -11057,7 +11057,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -11462,7 +11462,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "175 Platinum"
       },
       {
@@ -11562,7 +11562,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -11763,7 +11763,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "75 Platinum"
       },
       {
@@ -11863,7 +11863,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -12147,7 +12147,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -12242,7 +12242,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -12659,7 +12659,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "275 Platinum"
       },
       {
@@ -12754,7 +12754,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -13147,7 +13147,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "375 Platinum"
       },
       {
@@ -13253,7 +13253,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -13633,7 +13633,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "275 Platinum"
       },
       {
@@ -13727,7 +13727,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -14167,7 +14167,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -14275,7 +14275,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -14673,7 +14673,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "370 Platinum"
       },
       {
@@ -14797,7 +14797,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "375 Platinum"
       },
       {
@@ -14897,7 +14897,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -15181,7 +15181,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -15281,7 +15281,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -15529,7 +15529,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -15683,7 +15683,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -16076,7 +16076,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -16196,7 +16196,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -16582,7 +16582,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "370 Platinum"
       },
       {
@@ -16730,7 +16730,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -16848,7 +16848,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -17222,7 +17222,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -17335,7 +17335,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -17460,7 +17460,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -17876,7 +17876,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "375 Platinum"
       },
       {
@@ -17983,7 +17983,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -18219,7 +18219,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -18319,7 +18319,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -18771,7 +18771,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -18884,7 +18884,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -19366,7 +19366,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "175 Platinum"
       },
       {
@@ -19461,7 +19461,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -19595,7 +19595,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "370 Platinum"
       },
       {
@@ -19689,7 +19689,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "275 Platinum"
       },
       {
@@ -19784,7 +19784,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -20213,7 +20213,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "225 Platinum"
       },
       {
@@ -20313,7 +20313,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -20724,7 +20724,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "370 Platinum"
       },
       {
@@ -20818,7 +20818,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "300 Platinum"
       },
       {
@@ -20918,7 +20918,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -21358,7 +21358,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "300 Platinum"
       },
       {
@@ -21452,7 +21452,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -21779,7 +21779,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "75 Platinum"
       },
       {
@@ -21873,7 +21873,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -22133,7 +22133,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -22241,7 +22241,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -22417,7 +22417,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -22512,7 +22512,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -22904,7 +22904,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "275 Platinum"
       },
       {
@@ -22998,7 +22998,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -23438,7 +23438,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -23557,7 +23557,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -23925,7 +23925,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "325 Platinum"
       },
       {
@@ -24020,7 +24020,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
@@ -24304,7 +24304,7 @@
     "acquisition": [
       {
         "type": "Market",
-        "method": "Acquisto diretto",
+        "method": "Direct purchase",
         "detail": "275 Platinum"
       },
       {
@@ -24398,7 +24398,7 @@
       {
         "type": "Void Relic",
         "method": "Void Fissure",
-        "detail": "Ottieni i componenti dalle Void Relics"
+        "detail": "Get the components from Void Relics"
       }
     ],
     "components": [
