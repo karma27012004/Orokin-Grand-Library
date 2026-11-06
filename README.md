@@ -51,6 +51,7 @@ sudo apt install python-tk
 - tkinter: UI
 - json: Store information
 - urlib.request: Download images
+- jsons from: https://github.com/DavideBenedetti95/warframe-arsenal
 
 
 
