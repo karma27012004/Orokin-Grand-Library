@@ -16,6 +16,7 @@ except ImportError:
 
 DATA_PATH = Path("data/warframes.json")
 RELICS_PATH = Path("data/relic-drops.json")
+WEAPON_PATH = Path("data/weapons.json")
 
 
 def normalize(text):
@@ -112,12 +113,39 @@ class RelicWindow(tk.Toplevel):
             )
 
 
-class App(tk.Tk):
-    def __init__(self):
-        super().__init__()
-        self.title("Warframe Explorer")
-        self.geometry("900x600")
-        self.minsize(700, 450)
+# First instance of the menu :p
+class MenuScreen(ttk.Frame):
+    def __init__(self, parent, controller):
+        super().__init__(parent)
+        center = ttk.Frame(self)
+        center.place(relx=0.5, rely=0.5, anchor="center")
+
+        ttk.Label(center, text="Orokin Grand Library", font=("Segoe UI", 18, "bold")).pack(pady=(0, 16))
+
+        ttk.Button(
+            center, text="Warframes", style="Big.TButton",
+            command=lambda: controller.show_screen("warframes"),
+        ).pack(fill="x", pady=6)
+        ttk.Button(
+            center, text="Weapons", style="Big.TButton",
+            command=lambda: controller.show_screen("weapons"),
+        ).pack(fill="x", pady=6)
+
+
+# Placeholder menu will update it later
+class PlaceholderMenu(ttk.Frame):
+    def __init__(self, parent, controller, title):
+        super().__init__(parent)
+        top = ttk.Frame(self, padding=8)
+        top.pack(fill="x")
+        ttk.Button(top, text="← Menu", command=lambda: controller.show_screen("menu")).pack(side="left")
+        ttk.Label(self, text=title, font=("Segoe UI", 14, "bold")).pack(expand=True)
+
+
+class WarframeScreen(ttk.Frame):
+    def __init__(self, parent, controller):
+        super().__init__(parent)
+        self.controller = controller
 
         with open(DATA_PATH, encoding="utf-8") as f:
             self.data = sorted(json.load(f), key=lambda w: w["name"])
@@ -135,6 +163,12 @@ class App(tk.Tk):
         self._fill_list()
 
     def _create_ui(self):
+        top = ttk.Frame(self, padding=8)
+        top.pack(side="top", fill="x")
+        ttk.Button(
+            top, text="← Menu", command=lambda: self.controller.show_screen("menu")
+        ).pack(side="left")
+
         left = ttk.Frame(self, padding=8)
         left.pack(side="left", fill="y")
 
@@ -290,6 +324,41 @@ class App(tk.Tk):
         self.image_cache[url] = photo
         if self.current and self.current["name"] == name:
             self.image_label.config(image=photo)
+
+
+class App(tk.Tk):
+    def __init__(self):
+        super().__init__()
+        self.title("Orokin Grand Library")
+        self.geometry("1600x900")
+        self.minsize(700, 450)
+
+        style = ttk.Style(self)
+        style.configure("Big.TButton", font=("Segoe UI", 14), padding=(40, 14))
+
+        container = ttk.Frame(self)
+        container.pack(fill="both", expand=True)
+        container.grid_rowconfigure(0, weight=1)
+        container.grid_columnconfigure(0, weight=1)
+
+        self.titles = {
+            "menu": "Orokin Grand Library",
+            "warframes": "Orokin Grand Library - Warframes",
+            "weapons": "Orokin Grand Library - Weapons",
+        }
+        self.screens = {
+            "menu": MenuScreen(container, self),
+            "warframes": WarframeScreen(container, self),
+            "weapons": PlaceholderMenu(container, self, "Weapons screen"),
+        }
+        for screen in self.screens.values():
+            screen.grid(row=0, column=0, sticky="nsew")
+
+        self.show_screen("menu")
+
+    def show_screen(self, name):
+        self.screens[name].tkraise()
+        self.title(self.titles[name])
 
 
 if __name__ == "__main__":
