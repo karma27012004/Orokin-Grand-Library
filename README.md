@@ -15,12 +15,12 @@ While inside the directory, or simply double click main.py with python installed
 
 - [x] Information about warframes and how to obtain them
 - [x] Information about relics and where to obtain them
-- [x] Main menu 
+- [x] Main menu
+- [x] Weapon browser
 
 ### Planned: 
 
 - [] Build planner and calculator
-- [] Weapon browser
 - [] Resource farm helper
 - [] Lore
 - [] .exe for easy opening
