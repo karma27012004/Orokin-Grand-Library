@@ -7,7 +7,7 @@ Application is designed with python, to run type on terminal:
 ```
 python ./main.py
 ```
-While inside the directory
+While inside the directory, or simply double click main.py with python installed
 
 ## Features:
 
@@ -15,6 +15,7 @@ While inside the directory
 
 - [x] Information about warframes and how to obtain them
 - [x] Information about relics and where to obtain them
+- [x] Main menu 
 
 ### Planned: 
 
